@@ -1,0 +1,65 @@
+
+"name": "李白"
+
+"Name": "王昭君"
+
+"data": {"name":"孙悟空","pwd":"王昭君"}
+
+
+"data1":
+  "name": "刘备"
+  "pwd": "孙尚香"
+
+
+"data2":
+  - "丽丽"
+  - "娜娜"
+
+"data3":
+  - "name": "鲁班"
+  - "pwd": "团战可以输,鲁班必须死"
+
+
+"data4":
+ boolt: true
+ boolf: false
+
+"data5":
+  int1: 122
+  float2: 122.33
+
+
+data6: ~
+data7: null
+data8: Null
+data9:
+data10: None
+data11: none
+
+
+data12: 2020-06-05 11:24:30
+data13: 2020-06-05
+data14: 11:25:59
+
+
+
+"data15": &woqu
+  "name": "刘备"
+  "pwd": "孙尚香"
+
+data16:
+  <<: *woqu
+  jiao: "你愁啥"
+
+
+
+
+
+
+
+
+
+
+
+
+

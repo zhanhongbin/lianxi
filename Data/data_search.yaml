@@ -1,0 +1,11 @@
+data1:
+  input: 1
+  exc: 休眠
+
+data2:
+  input: m
+  exc: MAC地址
+
+data3:
+  input: i
+  exc: IP地址
