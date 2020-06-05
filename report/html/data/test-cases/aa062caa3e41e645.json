@@ -1,0 +1,150 @@
+{
+  "uid" : "aa062caa3e41e645",
+  "name" : "test_search[i-IP地址]",
+  "fullName" : "Scripts.test_search.Test_search#test_search",
+  "historyId" : "87fd9845ca950c3feb56bdf43fab7950",
+  "time" : {
+    "start" : 1591363107978,
+    "stop" : 1591363117762,
+    "duration" : 9784
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ {
+    "name" : "click_search",
+    "time" : {
+      "start" : 1591363083184,
+      "stop" : 1591363090835,
+      "duration" : 7651
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "c73167aa8fc0f43",
+      "name" : "7d755d6e-7d41-42ca-a5c2-fd19ff4d4328-attachment.attach",
+      "source" : "c73167aa8fc0f43.attach",
+      "type" : "text/plain",
+      "size" : 18
+    } ],
+    "parameters" : [ ],
+    "hasContent" : true,
+    "stepsCount" : 0,
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : false
+  }, {
+    "name" : "_Class__pytest_setup_class",
+    "time" : {
+      "start" : 1591363083184,
+      "stop" : 1591363083184,
+      "duration" : 0
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "hasContent" : false,
+    "stepsCount" : 0,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false
+  } ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ {
+      "name" : "设置搜索内容判断是否存在",
+      "time" : {
+        "start" : 1591363107978,
+        "stop" : 1591363117762,
+        "duration" : 9784
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ {
+        "uid" : "cd446ffe1793939",
+        "name" : "f94b414d-db88-4c15-a0da-61922781213d-attachment.attach",
+        "source" : "cd446ffe1793939.attach",
+        "type" : "text/plain",
+        "size" : 36
+      } ],
+      "parameters" : [ {
+        "name" : "text",
+        "value" : "'i'"
+      }, {
+        "name" : "loc",
+        "value" : "'IP地址'"
+      } ],
+      "hasContent" : true,
+      "stepsCount" : 0,
+      "attachmentsCount" : 1,
+      "shouldDisplayMessage" : false
+    } ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "hasContent" : true,
+    "stepsCount" : 1,
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : false
+  },
+  "afterStages" : [ {
+    "name" : "_Class__pytest_setup_class::0",
+    "time" : {
+      "start" : 1591363117765,
+      "stop" : 1591363119456,
+      "duration" : 1691
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "hasContent" : false,
+    "stepsCount" : 0,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false
+  } ],
+  "labels" : [ {
+    "name" : "parentSuite",
+    "value" : "Scripts"
+  }, {
+    "name" : "suite",
+    "value" : "test_search"
+  }, {
+    "name" : "subSuite",
+    "value" : "Test_search"
+  }, {
+    "name" : "host",
+    "value" : "WIN-PT3CHO0B4AF"
+  }, {
+    "name" : "thread",
+    "value" : "5800-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "Scripts.test_search"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ {
+    "name" : "loc",
+    "value" : "'IP地址'"
+  }, {
+    "name" : "text",
+    "value" : "'i'"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "aa062caa3e41e645.json",
+  "parameterValues" : [ "'IP地址'", "'i'" ]
+}

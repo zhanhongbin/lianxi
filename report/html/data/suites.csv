@@ -1,0 +1,4 @@
+"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
+"passed","Fri Jun 05 21:18:27 CST 2020","Fri Jun 05 21:18:37 CST 2020","9784","Scripts","test_search","Test_search","","","test_search[i-IP地址]",""
+"passed","Fri Jun 05 21:18:10 CST 2020","Fri Jun 05 21:18:21 CST 2020","10244","Scripts","test_search","Test_search","","","test_search[1-休眠]",""
+"passed","Fri Jun 05 21:18:21 CST 2020","Fri Jun 05 21:18:27 CST 2020","6888","Scripts","test_search","Test_search","","","test_search[m-MAC地址]",""

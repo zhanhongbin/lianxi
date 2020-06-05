@@ -1,0 +1,31 @@
+[ {
+  "uid" : "aa062caa3e41e645",
+  "name" : "test_search[i-IP地址]",
+  "time" : {
+    "start" : 1591363107978,
+    "stop" : 1591363117762,
+    "duration" : 9784
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "9335381ff0112741",
+  "name" : "test_search[1-休眠]",
+  "time" : {
+    "start" : 1591363090836,
+    "stop" : 1591363101080,
+    "duration" : 10244
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "17758b12a7f018f0",
+  "name" : "test_search[m-MAC地址]",
+  "time" : {
+    "start" : 1591363101085,
+    "stop" : 1591363107973,
+    "duration" : 6888
+  },
+  "status" : "passed",
+  "severity" : "normal"
+} ]

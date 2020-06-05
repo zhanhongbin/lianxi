@@ -1,0 +1,44 @@
+{
+  "uid" : "b1a8273437954620fa374b796ffaacdd",
+  "name" : "behaviors",
+  "children" : [ {
+    "name" : "test_search[1-休眠]",
+    "uid" : "9335381ff0112741",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1591363090836,
+      "stop" : 1591363101080,
+      "duration" : 10244
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ "'休眠'", "1" ]
+  }, {
+    "name" : "test_search[m-MAC地址]",
+    "uid" : "17758b12a7f018f0",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1591363101085,
+      "stop" : 1591363107973,
+      "duration" : 6888
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ "'MAC地址'", "'m'" ]
+  }, {
+    "name" : "test_search[i-IP地址]",
+    "uid" : "aa062caa3e41e645",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1591363107978,
+      "stop" : 1591363117762,
+      "duration" : 9784
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ "'IP地址'", "'i'" ]
+  } ]
+}
